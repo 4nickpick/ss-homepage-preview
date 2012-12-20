@@ -4,7 +4,11 @@
     Plugin Name: SS Homepage Preview
     Author Name: Nicholas Pickering
     Author Email: 2nickpick@gmail.com
-    Plugin URI: http://soundshrew.com/plugins/ss_homepage_preview
+    Author URI: http://www.soundshrew.com/
+    Plugin URI: http://www.soundshrew.com/plugins/ss-homepage-preview/
+    Description: Preview future posts on your site
+    Version: 1.0
+    License: GPL2
 */
 
 
